@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <William Kamovitch> -- <designer, developer, and client> -- <@wkamovitch>
+
+# THANKS
+
+    <Paul Wilson for the hosting and the help>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Mapbox API
