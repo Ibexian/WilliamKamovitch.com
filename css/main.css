@@ -22,7 +22,7 @@ body {
     text-shadow: none;
 }
 ::selection {
-    background: #F6DAD7;
+    background: #ebb0a8;
     text-shadow: none;
 }
 
@@ -388,7 +388,7 @@ h3.right {
     margin-left: -20px;
 }
 h4:target{
-	background-color: #F6DAD7;
+	background-color: #ebb0a8;
 }
 .left {
     text-align: left;
