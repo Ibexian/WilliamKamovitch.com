@@ -735,7 +735,22 @@ p.span_8{
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 120dppx) {
 
-}
+}]
+/*===========================================
+    Older IE Fixes
+    ========================================== */
+.ie7 body div ul li a .oldimage {
+  display: none; }
+.ie6 body div ul li a .oldimage {
+  display: none; }
+.ie8 body div ul li a .oldimage {
+  display: none; }
+.ie7 body .body div a div .hovertext1 {
+    display:none;}
+.ie6 body .body div a div .hovertext1 {
+    display:none;}
+.ie8 body .body div a div .hovertext1 {
+    display:none;}
 
 /* ==========================================================================
    Helper classes
