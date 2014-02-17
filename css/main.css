@@ -802,7 +802,7 @@ p.span_8{
 
 .clearfix:before,
 .clearfix:after {
-    content: " ";
+    content: "\a0";
     display: table;
 }
 
