@@ -48,9 +48,10 @@ var NKIDP = new Marker(-77.029716,38.8953,'NKIDP','commercial', 'North Korean In
 var PKU = new Marker(116.305611,39.987755, 'PKU', 'college', 'Peking University', 'xu37qi6o');
 var GWU = new Marker(-77.046272,38.899798, 'GWU', 'college', 'George Washington University', '0l5qibch');
 var SOAS = new Marker(-0.12889623641967773,51.52204224896724, 'SOAS', 'college', 'School of Oriental and African Studies', 'xdtpyk00');
+var ERG = new Marker(-71.26195907592773, 42.46351791749369, 'ERG', 'commercial', 'Eastern Research Group', 'marker-hrcc2lwq0');
 var geoJson = {
     type: 'FeatureCollection',
-    features: [NewOriental, Cambridge, NKIDP, PKU, GWU, SOAS]
+    features: [NewOriental, Cambridge, NKIDP, PKU, GWU, SOAS, ERG]
     };
   // Make the GeoJSON linkable in the same window
   map.markerLayer.setGeoJSON(geoJson);
